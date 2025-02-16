@@ -18,6 +18,8 @@ Hi there, I'm Shubham Singh! 👋<br><br>🚀 CS Undergrad | Full-Stack Web Deve
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ShubhamSingh-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+![Profile Views](https://komarev.com/ghpvc/?username=ShubhamSingh-dev&color=blue)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=ShubhamSingh-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
