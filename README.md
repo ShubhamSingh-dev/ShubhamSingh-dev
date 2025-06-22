@@ -1,3 +1,5 @@
+![WhatsApp Image 2025-06-22 at 15 20 50_c6732464](https://github.com/user-attachments/assets/21267494-e38f-435e-9db7-471ec5a38642)
+
 # 💫 About Me:
 Hi there, I'm Shubham Singh! 👋<br><br>🚀 CS Undergrad | Full-Stack Web Developer | Tech Enthusiast | Exploring Machine Learning<br><br>👋 About Me:<br>Passionate about building real-world projects and solving problems with technology. I love working on AI integrations, enhancing user experiences with animations, and continuously improving my skills.<br><br>💻 Skills & Interests:<br>TypeScript, Next.js, React, Firebase, MERN stack, AI integrations, DSA, and web animations (GSAP, ScrollTrigger, Lenis).<br><br>🚀 Currently Working On:<br>Developing an AI-powered farmer assistance platform for the Google Solution Challenge 2025, integrating AI-driven Q&A, real-time market insights, and multilingual support.
 
