@@ -175,7 +175,7 @@ I'm always excited to collaborate on interesting projects or discuss tech! Wheth
 
 ### 🎵 Currently Vibing To
 
-[![Spotify](https://novatorem-kyzbk7wxl-shubhamsingh-dev.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+[![Spotify](https://novatorem-kyzbk7wxl-shubhamsingh-dev.vercel.app/api/spotify)](https://open.spotify.com/user/31ahm3a4aw5gqnlf4hvtdmxz6yxi)
 
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
