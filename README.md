@@ -44,18 +44,21 @@
       </td>
     </tr>
     <tr>
-      <td align="center">
-        <br/><b>Mastering Next.js 14</b>
-      </td>
-      <td align="center">
-        <br/><b>Caching with Redis</b>
-      </td>
-      <td align="center">
-        <br/><b>State Management: Zustand</b>
-      </td>
+      <td align="center"><br/><b>Mastering Next.js 14</b></td>
+      <td align="center"><br/><b>Caching with Redis</b></td>
+      <td align="center"><br/><b>State Management: Zustand</b></td>
     </tr>
   </table>
 </div>
+
+---
+
+# 💻 Featured YouTube Videos
+
+
+[![Redis Crash Course](https://ytcards.demolab.com/?id=UItfbdI0oNc&title=Redis+Fundamentals&lang=en&timestamp=1638183600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=380)](https://youtu.be/UItfbdI0oNc)
+[![Redis Crash Course](https://ytcards.demolab.com/?id=UItfbdI0oNc&title=Redis+Fundamentals&lang=en&timestamp=1638183600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=380)](https://youtu.be/UItfbdI0oNc)
+[![Zustand Guide](https://ytcards.demolab.com/?id=Dd_4zfmY-aA&title=Modern+State+Management&lang=en&timestamp=1693396800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=786)](https://youtu.be/Dd_4zfmY-aA)
 
 ---
 
