@@ -53,13 +53,16 @@
 
 ---
 
-# 💻 Featured YouTube Videos
+# 💻 YouTube Videos I Follow
 
 <div align="center">
 
-[![Redis Crash Course](https://ytcards.demolab.com/?id=UItfbdI0oNc&title=Redis+Fundamentals&lang=en&timestamp=1638183600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=380)](https://youtu.be/UItfbdI0oNc)
-[![Redis Crash Course](https://ytcards.demolab.com/?id=UItfbdI0oNc&title=Redis+Fundamentals&lang=en&timestamp=1638183600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=380)](https://youtu.be/UItfbdI0oNc)
-[![Zustand Guide](https://ytcards.demolab.com/?id=Dd_4zfmY-aA&title=Modern+State+Management&lang=en&timestamp=1693396800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=786)](https://youtu.be/Dd_4zfmY-aA)
+[![GenAI by CampusX](https://ytcards.demolab.com/?id=pSVk-5WemQ0&title=GenAI+Roadmap+for+Beginners+%7C+End-to-End+GenAI+Course+2025+%7C+CampusX&lang=en&timestamp=1738022400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2640
+)](https://youtu.be/UItfbdI0oNc)
+[![Harkirat](https://ytcards.demolab.com/?id=cxMqXPAVag8&title=Launching+Complete+AI%2FML%2C+Web3+and+Web+Dev+Bootcamp&lang=en&timestamp=1700000000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1054
+)](https://youtu.be/UItfbdI0oNc)
+[![Competetive Programming](https://ytcards.demolab.com/?id=kTOx1GnlUco&title=C%2B%2B+for+Competitive+Programming+%5BCodeISM+2024%5D&lang=en&timestamp=1700000000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7200
+)](https://youtu.be/Dd_4zfmY-aA)
 
 </div>
 
