@@ -16,7 +16,7 @@
 ---
 
 # 💫 About Me:
-👋 Hi, I’m **Shubham Singh** — a full-stack developer focused on building modern web applications using **MERN, Next.js, and TypeScript**. I enjoy turning ideas into scalable, user-friendly products and exploring GenAI-powered tools to enhance developer workflows.
+👋 Hi, I'm **Shubham Singh** — a full-stack developer focused on building modern web applications using **MERN, Next.js, and TypeScript**. I enjoy turning ideas into scalable, user-friendly products and exploring GenAI-powered tools to enhance developer workflows.
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=flat&logo=greensock&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Badge Name](https://img.shields.io/badge/tRPC-%232596BE.svg?style=flat&logo=tRPC&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
@@ -55,20 +55,42 @@
 
 # 💻 Featured YouTube Videos
 
+<div align="center">
 
 [![Redis Crash Course](https://ytcards.demolab.com/?id=UItfbdI0oNc&title=Redis+Fundamentals&lang=en&timestamp=1638183600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=380)](https://youtu.be/UItfbdI0oNc)
 [![Redis Crash Course](https://ytcards.demolab.com/?id=UItfbdI0oNc&title=Redis+Fundamentals&lang=en&timestamp=1638183600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=380)](https://youtu.be/UItfbdI0oNc)
 [![Zustand Guide](https://ytcards.demolab.com/?id=Dd_4zfmY-aA&title=Modern+State+Management&lang=en&timestamp=1693396800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=786)](https://youtu.be/Dd_4zfmY-aA)
 
+</div>
+
 ---
 
+<div align="center">
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shubhamsingh-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shubhamsingh-dev&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=shubhamsingh-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=shubhamsingh-dev&theme=dark&hide_border=false)
+
+<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamsingh-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<br/>
+<br/>
+
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<br/>
+<br/>
+
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=shubhamsingh-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
