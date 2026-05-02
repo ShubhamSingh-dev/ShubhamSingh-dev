@@ -1,8 +1,8 @@
 # SHUBHAM SINGH <3
 ===================
 
-Full-stack developer and AI Engineer turning ideas into real products.
-Currently building AI-powered web apps & scalable systems.
+Full-Stack & AI Engineer turning ideas into products that ship.
+Currently building AI-powered web apps, real-time systems, and dev tools.
 
 ---------------
 Connect With Me
@@ -13,7 +13,7 @@ Connect With Me
   @ email       --  mine.shubhamsingh@gmail.com
 
 --------------
-Skills & Tools
+Skills & Tools 🛠
 
 » Languages:    TypeScript, JavaScript, Java, Python, C, C++
 » Frontend:     React, Next.js, TailwindCSS, GSAP, Socket.io
@@ -23,29 +23,43 @@ Skills & Tools
 » Data:         NumPy, Pandas
 
 -----------------
-Featured Projects
+Featured Projects 🚀
 
-● ai-github-saas
-  ✦ AI-powered GitHub SaaS built on the T3 Stack (Next.js, tRPC, Prisma, Tailwind).
-    Layers GenAI on top of your repos for smarter developer workflows.
-  ✦ Link: https://github.com/ShubhamSingh-dev/ai-github-saas
+● Nirvado
+  ✦ Browser-based AI code editor & playground — write, run, and get AI feedback
+    on code entirely in the browser. Monaco Editor + WebContainers + Gemini AI.
+  ✦ Live: https://nirvado.vercel.app
+  ✦ Repo: https://github.com/ShubhamSingh-dev/Nirvado
+
+● ApiLab
+  ✦ AI-powered Postman alternative with smart agentic suggestions for
+    request names, modules, and API organization.
+  ✦ Live: https://api-lab-two.vercel.app
+  ✦ Repo: https://github.com/ShubhamSingh-dev/ApiLab
+
+● TellGit
+  ✦ AI-powered GitHub SaaS on the T3 Stack — layers GenAI on top of
+    your repos for smarter developer workflows.
+  ✦ Live: https://tell-git.vercel.app
+  ✦ Repo: https://github.com/ShubhamSingh-dev/TellGit
+
+● AI-note-making
+  ✦ AI-powered note taking app. Clean, fast, and actually useful.
+  ✦ Live: https://notiq-eight.vercel.app
+  ✦ Repo: https://github.com/ShubhamSingh-dev/AI-note-making
 
 ● AtomSketch
-  ✦ TypeScript-first collaborative design & whiteboard tool built for developers.
-    Real-time, minimal, and fast.
-  ✦ Link: https://github.com/ShubhamSingh-dev/AtomSketch
+  ✦ Real-time collaborative whiteboard built for developers.
+    Draw, sketch, and think together — live.
+  ✦ Live: https://atom-sketch.vercel.app
+  ✦ Repo: https://github.com/ShubhamSingh-dev/AtomSketch
 
-● macOs_Portfolio
-  ✦ Portfolio site styled as a full macOS desktop experience.
-    Because a plain portfolio page just isn't enough.
-  ✦ Link: https://github.com/ShubhamSingh-dev/macOs_Portfolio
-
-● DSA
-  ✦ Clean, well-organized Data Structures & Algorithms practice in Java.
-    Solving problems, one commit at a time.
-  ✦ Link: https://github.com/ShubhamSingh-dev/DSA
+● ai-github-saas
+  ✦ GenAI on top of your GitHub repos — smarter context and workflows.
+    Built on Next.js, tRPC, and Prisma.
+  ✦ Repo: https://github.com/ShubhamSingh-dev/ai-github-saas
 
 --------------------------
-Thanks for stopping by! :)
 
+Thanks for stopping by! ☕
 Drop a message or open an issue — let's build something awesome together <3
